@@ -9,13 +9,6 @@
 
 ---
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swatisingh123&theme=github-compact&area=true&hide_border=true" width="90%" />
-</p>
-
----
 
 ## 👩‍💻 Who Am I?
 
@@ -72,14 +65,6 @@ Emergency response platform with real-time help, disaster education, and unique 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatisingh123&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatisingh123&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
 
 ## 📬 Let's Connect
 
