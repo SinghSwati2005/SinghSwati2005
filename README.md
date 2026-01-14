@@ -1,79 +1,150 @@
-<!-- Swati Singh GitHub Profile README -->
+<!-- SUBTLE TOP VISUAL : GIRL CODING -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=header"/>
 </p>
 
-<h1 align="center">Hey there! I'm <span style="color:#00BFFF">Swati Singh</span> 👩‍💻</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧘‍♀️ Mindfulness Coder | 🎯 Hackathon Finalist</h3>
-
----
-
-
-## 👩‍💻 Who Am I?
-
-🌱2nd Year IT Undergrad from Netaji Subhash Engineering College  
-🛠 Passionate about solving real-world problems with code  
-🧠 Building tech that supports **mental health, education & disaster relief**  
-🌐 Believer in **clean UI + scalable backend = real impact**  
-
-
----
-
-## 🌟 Key Projects
-
-✨ **PODZEN**  
-AI-powered mental wellness platform for students with chatbot, mood analysis & podcast/blog integrations
-
-🎧 **Relaxation Reminder**  
-Edge browser extension to reduce screen fatigue with music breaks, built-in timer, and custom playlists
-
-
-🌍 **RapidLink**  
-Emergency response platform with real-time help, disaster education, and unique post-disaster funding model
-
-
----
-
-## 🧰 Tech Stack
-
-<h4 align="center"><strong>Languages & Frontend</strong></h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N6b2Z5NmNvdmU3cGJkNGk3N2s1ZGlxZ2p1Y2Z3c3J6eW45dGx3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" 
+    alt="Animated girl coding on laptop"
+    width="520"
+  />
 </p>
 
-<h4 align="center"><strong>Backend & Database</strong></h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
 
-<h4 align="center"><strong>Tools & Services</strong></h4>
+<h1 align="center">Swati Singh</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <strong>Full Stack Web Developer | Software Engineer | Hackathon Finalist</strong>
 </p>
 
 ---
 
+## 👩‍💻 About Me
 
-## 📬 Let's Connect
+I’m a **Full Stack Web Developer** with a strong interest in building **scalable, real-world applications** that create meaningful impact.  
+I bring a balance of **technical depth, leadership ability, and structured problem-solving** to every project I work on.
+
+I have actively participated in **hackathons and team-based development**, where I’ve taken ownership of features, collaborated cross-functionally, and delivered working solutions under time constraints.  
+I value **clean architecture, maintainable code, and thoughtful user experience**.
+
+---
+
+<!-- SIDE-BY-SIDE SECTION : TEXT LEFT | IMAGE RIGHT -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## 🧠 Engineering & GitHub Mindset
+
+I treat GitHub as more than just a code dump — it’s a **reflection of my consistency, learning curve, and engineering discipline**.  
+My repositories focus on **clarity, modular structure, and practical implementation** rather than surface-level demos.
+
+I actively work on:
+- Strengthening core **full-stack fundamentals**
+- Writing readable, maintainable code
+- Building end-to-end features instead of isolated components
+- Improving through iteration and feedback
+
+</td>
+
+<td width="60%" align="right">
+  <img
+    src="https://img.freepik.com/premium-photo/working-girl-office-work-animated-girl-working-laptop_982269-331.jpg"
+    alt="Building and leadership mindset"
+    width="360"
+  />
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Hackathons & Achievements
+
+- **Smart Bengal Hackathon 2025** — Finalist  
+- **HexaFalls Hackathon 2025** — Finalist  
+- **Smart India Hackathon 2025** — Participant  
+
+Worked on real-world problem statements, collaborated in diverse teams, and delivered demo-ready solutions with clear system design.
+
+---
+
+## 🚀 Projects
+
+### 🌾 **KrishiSetu**
+An AI-powered AgriTech platform connecting farmers with industries for selling crops and agricultural waste.  
+Focused on improving price transparency, accessibility, and reducing dependency on intermediaries through a structured digital system.
+
+### ✍️ **MicroPen**
+A clean and minimal content creation platform designed for focused writing and sharing.  
+Built with simplicity in mind to eliminate distractions while enabling creators to publish efficiently.
+
+### 🎯 **SkillAI**
+An AI-driven skill assessment and learning guidance platform for students.  
+Helps users understand their current skill level and provides structured recommendations for improvement.
+
+### 🚑 **RapidLink**
+A disaster response and emergency assistance platform designed for real-time access to verified resources.  
+Aims to support users during critical situations with fast and reliable information.
+
+### 🧘 **Relaxation Reminder**
+A Microsoft Edge extension that promotes mindful breaks during long screen hours.  
+Designed to reduce screen fatigue while maintaining productivity and focus.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</p>
+
+### Languages, ORM & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/docs/static/img/logo-dark.svg" height="36"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Overview
 
 <p align="center">
-  <a href="https://linkedin.com/in/swati-singh-3342a7288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:swatisingh000000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://github.com/swatisingh123](https://github.com/SinghSwati2005)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghSwati2005&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SinghSwati2005&theme=tokyonight" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SinghSwati2005&theme=tokyonight&utcOffset=5.5" 
+  />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=140&section=header"/>
 </p>
